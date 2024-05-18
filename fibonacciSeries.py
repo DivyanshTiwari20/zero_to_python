@@ -1,4 +1,4 @@
-'''Fibonacci series for the Number user will input'''
+'''Fibonacci series for the (n) Number user will input'''
 
 #If you want to find the fibonacci numbers under twenty.
 
