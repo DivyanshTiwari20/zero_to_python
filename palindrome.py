@@ -1,4 +1,4 @@
-'''To check whether the give phase or sentence is palindrome or not by taking input from the user.'''
+''' Task5_To check whether the give phase or sentence is palindrome or not by taking input from the user.'''
 
 
 #Creating an function to check to whether word is palindrome or not 
