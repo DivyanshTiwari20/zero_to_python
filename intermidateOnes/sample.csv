@@ -1,0 +1,6 @@
+# sales_data.csv
+Date,Product,Quantity,Price
+2024-01-01,Product A,10,15.50
+2024-01-01,Product B,5,25.00
+2024-01-02,Product A,7,15.50
+2024-01-02,Product C,3,30.00
