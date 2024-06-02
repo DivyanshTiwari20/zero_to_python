@@ -27,4 +27,5 @@ class Solution:
 
 # Example usage:
 solution = Solution()
+
 print(solution.romanToInt("MCMXCIV"))  # Output: 1994

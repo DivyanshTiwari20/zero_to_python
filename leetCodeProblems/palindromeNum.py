@@ -11,4 +11,5 @@ class Solution:
 
 #Example usage:
 solution=Solution()
+
 print(solution.isPalindrome(828))

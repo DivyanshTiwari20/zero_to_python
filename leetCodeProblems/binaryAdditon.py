@@ -18,4 +18,5 @@ def addBinary(a: str, b: str) -> str:
 
 a = "11"
 b = "1"
-print(addBinary(a, b))
+
+print(addBinary(a, b)) 
