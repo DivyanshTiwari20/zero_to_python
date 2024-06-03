@@ -6,7 +6,7 @@ If there is no common prefix, return an empty string
 '''
 class Solution:
     def longestCommonPrefix(self, strs):
-        if not strs:
+        if not strs:#this will return 0 if strs is empty
             return ""
         
         pref = strs[0]
