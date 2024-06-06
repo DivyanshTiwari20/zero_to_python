@@ -1,0 +1,3 @@
+open the folder seprately otherwise the images will not open and you will get an error
+or you can change the addresss of the image according to you....
+Thank you :)
