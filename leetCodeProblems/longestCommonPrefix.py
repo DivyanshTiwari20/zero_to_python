@@ -4,7 +4,7 @@ Write a function to find the longest common prefix string amongst an array of st
 If there is no common prefix, return an empty string
 
 '''
-class Solution:
+class Solution :
     def longestCommonPrefix(self, strs):
         if not strs:#this will return 0 if strs is empty
             return ""
