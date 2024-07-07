@@ -1,6 +1,6 @@
 
 ## Description
-GetUp Deposit Tray is a comprehensive repository designed for Python learners who want to practice and enhance their coding skills. This collection offers over 100 Python codes, ranging from basic problems to advanced projects, catering to learners at various skill levels.
+Github repository is a comprehensive repository designed for Python learners who want to practice and enhance their coding skills. This collection offers over 100 Python codes, ranging from basic problems to advanced projects, catering to learners at various skill levels.
 
 ## Key Features
 - Wide range of Python practice problems
